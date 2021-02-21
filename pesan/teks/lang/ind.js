@@ -7,7 +7,7 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `Ok desu~`
+    kembali   `dahh??`
 }
 
 exports.wrongFormat = () => {
